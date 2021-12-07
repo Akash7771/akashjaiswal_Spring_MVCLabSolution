@@ -20,8 +20,8 @@
 <title>Student</title>
 <body>
 	<nav class="navbar navbar-light bg-navbar-color">
-      <div class="container-fluid">
-        <span class="navbar-brand mb-0 h1"><h3 class="navbar-heading-text">Student Debate Registration</h3></span>        
-      </div>
-    </nav>
-    <br>
+      		<div class="container-fluid">
+        		<span class="navbar-brand mb-0 h1"><h3 class="navbar-heading-text">Student Debate Registration</h3></span>        
+      		</div>
+    	</nav>
+    	<br>
