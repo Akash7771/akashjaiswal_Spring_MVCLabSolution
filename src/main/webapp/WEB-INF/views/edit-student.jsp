@@ -12,11 +12,11 @@
 		</div>
 		<div class="form-inline">
 			<input type="text" name="department" value="${theStudent.department}"
-				class="form-control mb-4 col-4" placeholder="Category">
+				class="form-control mb-4 col-4" placeholder="Department">
 		</div>
 		<div class="form-inline">
 			<input type="text" name="country" value="${theStudent.country}"
-				class="form-control mb-4 col-4" placeholder="Author">
+				class="form-control mb-4 col-4" placeholder="Country">
 		</div>
 		<button type="submit" class="btn btn-info col-2">Update Student</button>
 	</form>
